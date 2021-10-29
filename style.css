@@ -42,7 +42,7 @@ i {
 
 .book {
     width: 450px;
-    height: 600px;
+    height: 630px;
     position: relative;
     transition: transform 0.5s;
 }
