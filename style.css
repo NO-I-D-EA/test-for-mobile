@@ -41,8 +41,8 @@ i {
 /* Book */
 
 .book {
-    width: 450px;
-    height: 630px;
+    width: 500px;
+    height: 680px;
     position: relative;
     transition: transform 0.5s;
 }
