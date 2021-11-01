@@ -163,11 +163,3 @@ i {
 #b1 p {
     margin-bottom: 20px;
 }
- @media all and (max-width: 600px) {
-    body {
-        width: 300px;
-    height: 480px;
-    background-color: green;
-
-}
-}
