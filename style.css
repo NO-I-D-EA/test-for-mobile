@@ -51,8 +51,6 @@ i {
        height: 480px;
        position: relative;
        transition: transform 0.5s;
-       display: flex;
-       align-items: center;
       justify-content: center;
 
 }
