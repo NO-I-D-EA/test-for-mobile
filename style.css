@@ -47,10 +47,8 @@ i {
     position: relative;
     transition: transform 0.5s;
        @media all and (max-width: 500px) {
-    width: auto;
-    height: auto;
-    align-items: center;
-    justify-content: center;
+           width: 20px
+           height: 20px
     }
 }
 
