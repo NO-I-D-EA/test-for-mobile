@@ -13,6 +13,14 @@ body {
     justify-content: center;
     font-family: sans-serif;
     background-color: rgb(183, 206, 209);
+       @media all and (max-width: 500px) {
+    width: 100%
+    height: 100%
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    }
 }
 
 /* Button */
@@ -46,10 +54,6 @@ i {
     height: 680px;
     position: relative;
     transition: transform 0.5s;
-       @media all and (max-width: 500px) {
-           width: 20px
-           height: 20px
-    }
 }
 
 .paper {
