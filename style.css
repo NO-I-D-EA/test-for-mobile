@@ -48,11 +48,6 @@ i {
     transition: transform 0.5s;
    @media all and (max-width: 500px) {
     body {
-        height: 100vh;
-        display: flex;
-        align-items: center;
-       justify-content: center;
-        background-color: rgb(183, 206, 209);
         box-sizing: border-box;
     }
 }
