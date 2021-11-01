@@ -48,8 +48,8 @@ i {
     position: relative;
     transition: transform 0.5s;
    @media all and (max-width: 500px) {
-       width: 50px;
-       height: 280px;
+       width: 280px;
+       height: 100px;
        position: center;
     }
 }
