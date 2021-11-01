@@ -47,8 +47,10 @@ i {
     position: relative;
     transition: transform 0.5s;
    @media all and (max-width: 500px) {
-    body {
-        box-sizing: border-box;
+        width: 300px;
+       height: 480px;
+       position: relative;
+       transition: transform 0.5s;
     }
 }
 
