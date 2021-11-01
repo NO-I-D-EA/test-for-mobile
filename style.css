@@ -47,11 +47,15 @@ i {
     position: relative;
     transition: transform 0.5s;
    @media all and (max-width: 500px) {
-        width: 50%;
-       height: 50%;
+        width: 300px;
+       height: 480px;
        position: relative;
        transition: transform 0.5s;
-    }
+       height: 100vh;
+       display: flex;
+       align-items: center;
+      justify-content: center;
+
 }
 
 .paper {
