@@ -14,7 +14,11 @@ body {
     font-family: sans-serif;
     background-color: rgb(183, 206, 209);
        @media all and (max-width: 500px) {
-    background-color: white;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(183, 206, 209);       
     }
 }
 
