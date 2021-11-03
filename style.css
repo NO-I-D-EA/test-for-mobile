@@ -163,7 +163,7 @@ i {
 #b1 p {
     margin-bottom: 20px;
 }
-@media only screen and 9max-width: 768px) {
+@media only screen and (max-width: 768px) {
     /* For mobile phones: */
     width: 100%
 }
