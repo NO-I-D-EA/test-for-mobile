@@ -167,16 +167,5 @@ i {
     /* For mobile phones: */
     body{
     width: 200%;
-    book{
-    width: 300px;
-    height: 480px;
-    position: relative;
-}
-
-    paper{
-    height: 50%;
-    width: 50%;
-    position: absolute;
-
 }
 }
